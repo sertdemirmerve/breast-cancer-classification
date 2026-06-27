@@ -39,6 +39,16 @@ yorumlanabilirliğinin sağlanması.
 Regression ve SVM'in verdiğini gösteriyor — bu da tek bir ayrımla
 model seçmenin neden yanıltıcı olabileceğini kanıtlıyor.
 
+## Görseller
+
+![Model Karşılaştırması](images/model_comparison.png)
+
+![Cross-Validation Sonuçları](images/cross_validation.png)
+
+![ROC Eğrisi Karşılaştırması](images/roc_curve_comparison.png)
+
+![SHAP Özet Grafiği](images/shap_summary.png)
+
 ---
 
 ## SHAP ile Yorumlanabilirlik
